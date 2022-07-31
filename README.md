@@ -1,5 +1,7 @@
 # Deep_Learning
 
+
+## Project 1
 The goal of this project is to produce a neural network model that is best
 suited for training a given dataset. This dataset consists of a 1000-by-1 vector
 of 8-bit unsigned integers. The values of the vector are shown below.
