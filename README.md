@@ -10,7 +10,7 @@ The goal of this task is to produce a neural network model that is best suited f
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
-Furthermore, we trained our model to predict a data point one step ahead for a fracture of the data. To solve this issue, we implemented two different architectures to train our data. In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment_1.pdf){:target="_blank"}, we explain why we chose these two architectures and present the results. Some of the results are shown below.
+Furthermore, we trained our model to predict a data point one step ahead for a fracture of the data. To solve this issue, we implemented two different architectures to train our data. In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment_1.pdf){:target="_blank"}, we explain why we chose these two architectures and present the results. Some of the results are shown below.
 
 Prediction of the next 200 points:
 
@@ -33,7 +33,7 @@ them. This dataset consists of a 70128 by 4 by 5 vector that contains the inform
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
-In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
+In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
 
 
 Temperature prediction of the next week:
@@ -61,5 +61,5 @@ in testing Intra classification are 99% and the confusion matrix shows a good pe
 
 Analyzing the Cross loss plot, the right image above, we can see an unstable loss that is getting higher in the latest epochs. The accuracy with this classifier is worse than with Intra, having a 47% in the first and second set and a 25% in the third. The confusion matrix shows an unsatisfactory performance.
 
-In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results.
+In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results.
 
