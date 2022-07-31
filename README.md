@@ -33,5 +33,17 @@ them. This dataset consists of a 70128 by 4 by 5 vector that contains the inform
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
+Temperature prediction of the next week:
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure5.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+
+Experiments between different features:
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+
 * [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}:
 
