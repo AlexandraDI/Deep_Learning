@@ -39,13 +39,13 @@ In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/P
 Temperature prediction of the next week:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure5.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure5.png" alt="zigzag" width="45%" height="45%" />  
 </p>
 
 Experiments between different features:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="70%" height="70%" />  
 </p>
 
 * [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}:
