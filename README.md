@@ -51,5 +51,15 @@ Experiments between different features:
 * [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
 classification. Furthermore, we analyzed the influence of some hyper-parameters on the result and the difference between the training and testing accuracy.
 
+Looking into the Intra case, shown in the image below on the left, we can see how the training loss decreased in the first epoch and then remains falling until
+almost the end of the graph, epoch 8, when suddenly appears a significant increment, caused by over-fitting. The accuracy, precision, and recall obtained
+in testing Intra classification are 99% and the confusion matrix shows a good performance in the classification.
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure7.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+
+Analyzing the Cross loss plot, the right image above, we can see an unstable loss that is getting higher in the latest epochs. The accuracy with this classifier is worse than with Intra, having a 47% in the first and second set and a 25% in the third. The confusion matrix shows an unsatisfactory performance.
+
 In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
 
