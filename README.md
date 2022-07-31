@@ -12,7 +12,7 @@ of 8-bit unsigned integers. The values of the vector are shown below.
 
 Furthermore, we must train our model to predict a data point one step ahead
 for a fracture of the data. To solve this issue, we implemented two different
-architectures to train our data. In the project report [hyperlink], we explain why
+architectures to train our data. In the [project report](https://github.com/AlexandraDI/Reasoning_with_Natural_Language){:target="_blank"}, we explain why
 we chose these two architectures and present the results.
 
 ## Project 2
