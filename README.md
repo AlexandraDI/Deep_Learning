@@ -48,5 +48,8 @@ Experiments between different features:
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
-* [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}:
+* [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
+classification. Furthermore, we analyzed the influence of some hyper-parameters on the result and the difference between the training and testing accuracy.
+
+In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
 
