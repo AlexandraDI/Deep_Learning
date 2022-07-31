@@ -61,5 +61,5 @@ in testing Intra classification are 99% and the confusion matrix shows a good pe
 
 Analyzing the Cross loss plot, the right image above, we can see an unstable loss that is getting higher in the latest epochs. The accuracy with this classifier is worse than with Intra, having a 47% in the first and second set and a 25% in the third. The confusion matrix shows an unsatisfactory performance.
 
-In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
+In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.pdf){:target="_blank"}, we explain the implementation details and present the results.
 
