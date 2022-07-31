@@ -48,7 +48,7 @@ Experiments between different features:
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
-* [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
+* [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
 classification. Furthermore, we analyzed the influence of some hyper-parameters on the result and the difference between the training and testing accuracy.
 
 Looking into the Intra case, shown in the image below on the left, we can see how the training loss decreased in the first epoch and then remains falling until
