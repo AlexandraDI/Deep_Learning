@@ -13,13 +13,13 @@ Furthermore, we trained our model to predict a data point one step ahead for a f
 Prediction of the next 200 points:
 
 <p align="center">
- <img src="https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/figure1.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/figure2.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 Evaluate the model on the test data:
 
 <p align="center">
- <img src="https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/figure1.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/figure3.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 ## Project 2
