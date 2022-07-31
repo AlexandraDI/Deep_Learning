@@ -10,7 +10,7 @@ The goal of this task is to produce a neural network model that is best suited f
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
-Furthermore, we trained our model to predict a data point one step ahead for a fracture of the data. To solve this issue, we implemented two different architectures to train our data. In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment_1.pdf){:target="_blank"}, we explain why we chose these two architectures and present the results.
+Furthermore, we trained our model to predict a data point one step ahead for a fracture of the data. To solve this issue, we implemented two different architectures to train our data. In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment_1.pdf){:target="_blank"}, we explain why we chose these two architectures and present the results. Some of the results are shown below.
 
 Prediction of the next 200 points:
 
@@ -32,6 +32,9 @@ them. This dataset consists of a 70128 by 4 by 5 vector that contains the inform
 <p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
 </p>
+
+In the [project report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
+
 
 Temperature prediction of the next week:
 
